@@ -1,2 +1,6 @@
 # hello-world
-Getting started with github!
+
+
+Hi everyone, 
+
+Kat here. I like bubble tea and hope everyone is staying safe :)
